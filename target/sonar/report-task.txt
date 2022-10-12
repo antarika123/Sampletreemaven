@@ -1,0 +1,6 @@
+projectKey=com.secondmvn.accenture:SampleTreeMap
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.secondmvn.accenture:SampleTreeMap
+ceTaskId=AYPL075X4lzr971ty_40
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPL075X4lzr971ty_40
